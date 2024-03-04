@@ -84,3 +84,26 @@ input{
     background-color: blue;
     color: #fff;
 }
+.logo img{
+    width:10px ;
+}
+.logo{
+    color: #fff;
+    font-size: 13px;
+}
+.title{
+    color: #FFFFFF;
+    font-size: 16px;
+    border-top: 2px solid white;
+    width: 100%;
+}
+
+footer{
+    margin-top: 40px;
+    height: 50px;
+}
+.f-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
